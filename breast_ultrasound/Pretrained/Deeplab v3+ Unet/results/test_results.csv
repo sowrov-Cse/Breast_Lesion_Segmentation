@@ -1,7 +1,0 @@
-Model,Dice,IoU,Pixel Acc
-DeepLabV3+ (No Aug),0.7597,0.6327,0.9798
-UNet       (No Aug),0.746,0.6153,0.9784
-DeepLabV3+ (Aug),0.7402,0.6011,0.9772
-UNet       (Aug),0.7342,0.6031,0.9774
-Ensemble   (No TTA),0.7498,0.6188,0.9796
-Ensemble   (TTA),0.7498,0.6188,0.9796
